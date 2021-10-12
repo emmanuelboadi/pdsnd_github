@@ -8,9 +8,11 @@ Git Repo
 
 ### Description
 Creating Git repository and adding project to Git
+Analysis of USbikeshare data
 
 ### Files used
 USbikeshare data
+
 
 ### Credits
 https://classroom.udacity.com/nanodegrees/nd104/parts/cd0419
