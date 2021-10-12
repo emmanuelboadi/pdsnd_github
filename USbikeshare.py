@@ -50,6 +50,7 @@ def load_data(city, month, day):
     df = pd.read_csv('new_york_city.csv')
     df = pd.read_csv('washington.csv')
     
+    #data frame create for start time
     df['Start Time'] = pd.to_datetime(df['Start Time'])
     df['End Time'] = pd.to_datetime(df['End Time'])
     
