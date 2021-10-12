@@ -13,5 +13,5 @@ Creating Git repository and adding project to Git
 USbikeshare data
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://classroom.udacity.com/nanodegrees/nd104/parts/cd0419
 
