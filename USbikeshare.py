@@ -168,6 +168,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+# Format to view output
 def raw_data (df):
     view_data = input("Would you like to view 5 rows of individual trip data? Enter yes or no?")
     start_loc = 0
